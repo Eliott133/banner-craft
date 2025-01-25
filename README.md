@@ -1,8 +1,37 @@
-# React + Vite
+# Banner Craft
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Preview](https://raw.githubusercontent.com/Eliott133/banner-craft/refs/heads/main/src/screen/screely-1737844883710.png)
 
-Currently, two official plugins are available:
+Welcome to Banner Craft! This project is designed to help you create and manage custom offers banners for your website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Create custom banners with ease
+- Responsive design for all devices
+- Easy integration with your existing projects
+
+## Installation
+
+To get started with Banner Craft, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Eliott133/banner-craft.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd banner-craft
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To start the development server, run:
+```bash
+npm run dev
+```
+
+Open your browser and navigate to `http://localhost:5173` to see Banner Craft in action.
