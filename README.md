@@ -8,7 +8,7 @@ Welcome to Banner Craft! This project is designed to help you create and manage 
 
 - Create custom banners with ease
 - Responsive design for all devices
-- Easy integration with your existing projects
+- Easy integration with your existing projects [In progress]
 
 ## Installation
 
